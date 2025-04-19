@@ -86,7 +86,7 @@ Then open `http://localhost:8888` in your browser.
 ## Author
 - **Name:** Vishav Mehra
 - **Email:** mehravishav26@gmail.com
-- **GitHub:** [github.com/vishamehra](https://github.com/mehra)
+- **GitHub:** [github.com/vishavmehra](https://github.com/vishavmehra)
 - **LinkedIn:** [linkedin.com/in/vishav-mehra-7551072088](www.linkedin.com/in/vishav-mehra-755107208)
 
 ## License
