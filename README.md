@@ -5,8 +5,6 @@
 - [Directory Structure](#directory-structure)
 - [Setup & Installation](#setup--installation)
 - [Usage](#usage)
-- [Environment Variables](#environment-variables)
-- [Demo](#demo)
 - [Author](#author)
 - [License](#license)
 
@@ -46,8 +44,8 @@ Llama-MD is a modular framework for fine-tuning, augmenting, and deploying a lar
 ## Setup & Installation
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/Llama-MD.git
-   cd Llama-MD/Code
+   git clone https://github.com/vishavmehra/MediSense-Ai.git
+   cd MediSense-Ai/Code
    ```
 2. **Create & activate a virtual environment**:
    ```bash
@@ -58,12 +56,6 @@ Llama-MD is a modular framework for fine-tuning, augmenting, and deploying a lar
 3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-   ```
-4. **Add environment variables**:
-   Create a `.env` file in `Code/`:
-   ```ini
-   PINECONE_API_KEY=your_pinecone_key
-   PINECONE_ENVIRONMENT=your_pinecone_env
    ```
 
 ## Usage
@@ -90,17 +82,6 @@ cd Code
 streamlit run app.py --server.port 8888
 ```  
 Then open `http://localhost:8888` in your browser.
-
-## Demo
-A short video demonstrating the end‑to‑end workflow (PDF ingestion → RAG QA → chat UI):
-
-[![Watch the demo]](demo.mp4)
-https://drive.google.com/file/d/1NurOHUMOyR_VOeHnnPRyD62GcemBqSBh/view?usp=sharing
-
-Alternatively, if your platform supports HTML video:
-```html
-<video src="assets/demo.mp4" controls width="800" />
-```
 
 ## Author
 - **Name:** Vishav Mehra
