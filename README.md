@@ -95,6 +95,7 @@ Then open `http://localhost:8888` in your browser.
 A short video demonstrating the end‑to‑end workflow (PDF ingestion → RAG QA → chat UI):
 
 [![Watch the demo]](demo.mp4)
+https://drive.google.com/file/d/1NurOHUMOyR_VOeHnnPRyD62GcemBqSBh/view?usp=sharing
 
 Alternatively, if your platform supports HTML video:
 ```html
