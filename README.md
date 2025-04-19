@@ -1,6 +1,4 @@
-# Llama-MD
-
-[![Demo Video](assets/demo_thumbnail.png)](assets/demo.mp4)
+# MediSense AI
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -96,7 +94,7 @@ Then open `http://localhost:8888` in your browser.
 ## Demo
 A short video demonstrating the end‑to‑end workflow (PDF ingestion → RAG QA → chat UI):
 
-[![Watch the demo](assets/demo_thumbnail.png)](assets/demo.mp4)
+[![Watch the demo]](demo.mp4)
 
 Alternatively, if your platform supports HTML video:
 ```html
