@@ -89,6 +89,3 @@ Then open `http://localhost:8888` in your browser.
 - **GitHub:** [github.com/vishavmehra](https://github.com/vishavmehra)
 - **LinkedIn:** [linkedin.com/in/vishav-mehra-7551072088](www.linkedin.com/in/vishav-mehra-755107208)
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
